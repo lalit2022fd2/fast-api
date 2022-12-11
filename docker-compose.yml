@@ -1,0 +1,6 @@
+version: "3.9"
+services:
+  fast-api:
+    image: fastapi
+    ports:
+      - "90:80"
